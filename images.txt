@@ -1,2 +1,0 @@
-This folder contains project images.
-Screenshots of output is stored here.
