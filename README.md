@@ -27,5 +27,12 @@ This project detects human emotions in real-time using a webcam.
 - model.h5
 - utils.py
 
+## Output
+
+![Output 1](images/img 1.png)
+![Output 2](images/img 2.png)
+![Output 3](images/img 3.png)
+![Output 4](images/img 4.png)
+
 ## Author
 Pragati Sarkar
